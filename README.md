@@ -9,6 +9,7 @@ Primer paràgraf d'introducció
 5. [License ](#license)
 
 ## Introduction
+![Project Logo](images/logo.png)
 ## Features
 ## Installation
 ## Usage
