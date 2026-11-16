@@ -16,6 +16,19 @@ Primer paràgraf d'introducció
 | 1st feature | 1st feature description | Completed |
 | 2nd feature | 2nd feature description | Inprogress |
 | 3rd feature | 3rd feature description | Inprogress |
+
+Aquest paràgraf té parts **importants**. Estem aprenent *Git* i *Markdown*. Aquí utilitzem alguns alguns comands com `git commit`
+
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
 ## Installation
 ## Usage
+```python
+# This is a simple Python function to add two numbers
+def add_numbers(a, b):
+    """Return the sum of a and b.""" 
+    return a + b 
+    # Example usage
+    result = add_numbers(5, 7)
+    print("The sum is:", result)
+```
 ## License
