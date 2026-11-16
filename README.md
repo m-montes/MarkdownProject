@@ -7,3 +7,9 @@ Primer paràgraf d'introducció
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [License ](#license)
+
+## Introduction
+## Features
+## Installation
+## Usage
+## License
