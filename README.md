@@ -11,6 +11,11 @@ Primer paràgraf d'introducció
 ## Introduction
 ![Project Logo](images/logo.png)
 ## Features
+| Feature | Description | Status |
+| --------------- | --------------- | --------------- |
+| 1st feature | 1st feature description | Completed |
+| 2nd feature | 2nd feature description | Inprogress |
+| 3rd feature | 3rd feature description | Inprogress |
 ## Installation
 ## Usage
 ## License
