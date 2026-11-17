@@ -10,6 +10,7 @@ Primer paràgraf d'introducció
 
 ## Introduction
 ![Project Logo](images/logo.png)
+New line
 ## Features
 | Feature | Description | Status |
 | --------------- | --------------- | --------------- |
