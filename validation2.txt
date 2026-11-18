@@ -1,0 +1,118 @@
+commit 948a5081ae0dd297d6c2597c6c1de16329e780ff
+Merge: e38250a 4ef2df6
+Author: Marta <montesvazquez.marta@outlook.es>
+Date:   Wed Nov 18 15:25:42 2026 +0100
+
+    Merge pull request #2 from m-montes/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 4ef2df631c43240f44a365e6507aba04f9f5741a
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Tue Nov 17 16:29:54 2026 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 34 ++++++++++++++++++++++++++++++++++
+ 1 file changed, 34 insertions(+)
+
+commit e38250a7ad952cc4ce80c2aae98ab24e80690665
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Tue Nov 17 15:57:21 2026 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 91 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 91 insertions(+)
+
+commit 92d1385a77d1101daa567fd0edd0f814f2b813ac
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Tue Nov 17 15:53:14 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 08e0cbf2e0e7871254533aa3fdc12c63e3e9baaa
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Tue Nov 17 15:47:19 2026 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit b38d5cd78a70f1bc02f380119e5780bcbb9d151e
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Mon Nov 16 16:35:48 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 15 ++++++++++++++-
+ 1 file changed, 14 insertions(+), 1 deletion(-)
+
+commit 445bef7d672bc510ac8e8fc761beeb1b4784e0b5
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Mon Nov 16 16:26:12 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 61bf2eaa17d878b300f672b5fce4693b71211670
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Mon Nov 16 16:16:36 2026 +0100
+
+    Add project logo to README
+
+ README.md       |   1 +
+ images/logo.png | Bin 0 -> 37290 bytes
+ 2 files changed, 1 insertion(+)
+
+commit e609651cd1dc667b3cf4b98110c22a5613344fa1
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Mon Nov 16 16:09:34 2026 +0100
+
+    Add sections to README
+
+ README.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit a3c1dc0412eaa02f32afc6a87fca49cb55ece88b
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Mon Nov 16 16:06:25 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 27627bf5078d30b3ac0b9e50f119e456ae08dccd
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Mon Nov 16 16:01:12 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit e0b1899c4a5bdefc8eb05350ade1efdf3cfb742e
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Mon Nov 16 15:34:34 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 6d0117a6f91082a081b9a61217148b424495d21d
+Author: Marta <marmonvaz@iespoblenou.org>
+Date:   Mon Nov 16 07:28:38 2026 +0100
+
+    Initila commit with .gitignore
+
+ notes/.gitignore | 1 +
+ notes/notes.txt  | 0
+ 2 files changed, 1 insertion(+)
